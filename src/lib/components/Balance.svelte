@@ -16,9 +16,13 @@
     class="flex gap-2 bg-slate-900 px-3 py-2 text-sm font-semibold tabular-nums text-white sm:text-base"
   >
     <span class="select-none text-gray-500">$</span>
-    <span class="min-w-16 text-right">
-      {balanceFormatted}
-    </span>
+<input
+  type="number"
+  bind:value={$balance}
+  min="0"
+  class="min-w-16 text-right bg-slate-900 text-white outline-none"
+/>
+
   </div>
   <Popover.Root>
     <Popover.Trigger
