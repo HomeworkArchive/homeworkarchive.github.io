@@ -4,7 +4,7 @@ Experience the classic arcade thrill with our free online Plinko game! Drop disc
 
 ## 🎯 [Play Now](https://plinko-game-online.github.io/)
 
-No download, no registration - just instant fun in your browser!
+No download, no registration - just instant fun in your browser! 
 
 ## ✨ Game Features
 
@@ -40,7 +40,7 @@ No download, no registration - just instant fun in your browser!
 ## 📱 Compatible Browsers
 
 - Google Chrome
-- Firefox
+- Firefoxz
 - Safari
 - Microsoft Edge
 - Mobile browsers
